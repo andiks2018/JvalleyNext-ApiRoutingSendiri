@@ -1,34 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# membuat api routing sendiri next js
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/78794419/200959876-b36ad9e7-5053-458b-9f56-2d599719a4b7.png)
 
-First, run the development server:
+![image](https://user-images.githubusercontent.com/78794419/200959935-6d7ae312-4944-4f3f-aa61-37b3cfdf3d63.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+![image](https://user-images.githubusercontent.com/78794419/200960066-b64118f0-fdcf-4554-898d-0bc23ff317aa.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://user-images.githubusercontent.com/78794419/200960087-57c9e93f-4027-49bd-b337-f3e2bd8e4126.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+https://dev.to/andiismail/next-js-api-routing-3fcg
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+https://www.youtube.com/watch?v=nN8DujVOsg4
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+1:14:39 / 2:59:12
 
-## Learn More
+lanjut nanti 
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
