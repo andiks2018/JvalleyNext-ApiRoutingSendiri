@@ -8,10 +8,10 @@ export default function handler(req, res){
         })
     }
 
-
-
     res.status(201).json({
         success :true,
-        message : "data berhasil disimpan..."
+        message: "data berhasil disimpan...",
+        body: req.body, //tambahkan ini
+        headers : req.headers
     })
 }
