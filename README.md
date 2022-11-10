@@ -8,11 +8,19 @@
 
 ![image](https://user-images.githubusercontent.com/78794419/200960087-57c9e93f-4027-49bd-b337-f3e2bd8e4126.png)
 
+1:14:39 / 2:59:12
+
+![image](https://user-images.githubusercontent.com/78794419/200996946-be077803-c2b9-409f-8db3-e86a74ea6c25.png)
+
+![image](https://user-images.githubusercontent.com/78794419/200997002-78888663-bed4-423b-94c8-2ff85a5049a1.png)
+
+2:02:45 / 2:59:12
+
 https://dev.to/andiismail/next-js-api-routing-3fcg
 
 https://www.youtube.com/watch?v=nN8DujVOsg4
 
-1:14:39 / 2:59:12
 
-lanjut nanti 
+
+
 
