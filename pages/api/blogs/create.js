@@ -1,4 +1,6 @@
-export default function handler(req, res){
+import db from "../../../prisma/db"
+
+export default async function handler(req, res) {
 
     //jika req method bukan post maka retur error
     if (req.method!=="POST"){
@@ -8,10 +10,13 @@ export default function handler(req, res){
         })
     }
 
+    const createBlog = await db.blogs.create({
+        data : req.body
+    })
+
     res.status(201).json({
         success :true,
         message: "data berhasil disimpan...",
-        body: req.body, //tambahkan ini
-        headers : req.headers
+        body : createBlog,
     })
 }

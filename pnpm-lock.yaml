@@ -2,11 +2,13 @@ lockfileVersion: 5.4
 
 specifiers:
   next: 13.0.2
+  prisma: ^4.6.0
   react: 18.2.0
   react-dom: 18.2.0
 
 dependencies:
   next: 13.0.2_biqbaboplfbrettd7655fr4n2y
+  prisma: 4.6.0
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
 
@@ -133,6 +135,11 @@ packages:
     dev: false
     optional: true
 
+  /@prisma/engines/4.6.0:
+    resolution: {integrity: sha512-S+72PAl0zTCbIGou1uXD/McvzdtP+bjOs0LRmGZfcOQcVqR9x/0f6Z+dqpUU0zIcqHEl+0DOB8UXaTwRvssFsQ==}
+    requiresBuild: true
+    dev: false
+
   /@swc/helpers/0.4.11:
     resolution: {integrity: sha512-rEUrBSGIoSFuYxwBYtlUFMlE2CwGhmW+w9355/5oduSw8e5h2+Tj4UrAGNNgP9915++wj5vkQo0UuOBqOAq4nw==}
     dependencies:
@@ -220,6 +227,15 @@ packages:
       nanoid: 3.3.4
       picocolors: 1.0.0
       source-map-js: 1.0.2
+    dev: false
+
+  /prisma/4.6.0:
+    resolution: {integrity: sha512-TAnObUMGCM9NLt9nsRs1WWYQGPKsJOK8bN/7gSAnBcYIxMCFFDe+XtFYJbyTzsJZ/i+0rH4zg8au3m7HX354LA==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+    requiresBuild: true
+    dependencies:
+      '@prisma/engines': 4.6.0
     dev: false
 
   /react-dom/18.2.0_react@18.2.0:
