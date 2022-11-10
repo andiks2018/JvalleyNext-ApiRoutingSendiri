@@ -16,6 +16,14 @@
 
 2:02:45 / 2:59:12
 
+![image](https://user-images.githubusercontent.com/78794419/201227489-85486ab0-2e9e-4f42-8706-9ee4c7f1a921.png)
+
+![image](https://user-images.githubusercontent.com/78794419/201227672-47b62ff8-3660-475e-9a39-39c55d60d7f2.png)
+
+![image](https://user-images.githubusercontent.com/78794419/201227638-b6a4edaf-0c62-46fe-b0ec-4966f88637cd.png)
+
+![image](https://user-images.githubusercontent.com/78794419/201227652-1eff9ea6-0fcf-4070-814a-5d1b733a2c6e.png)
+
 https://dev.to/andiismail/next-js-api-routing-3fcg
 
 https://www.youtube.com/watch?v=nN8DujVOsg4
