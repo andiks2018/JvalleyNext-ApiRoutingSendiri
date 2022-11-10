@@ -1,3 +1,4 @@
+import db from "../../../prisma/db"
 
 const dummyBlogs = [
     {
@@ -19,12 +20,14 @@ const dummyBlogs = [
         banner : "https://picsum.photos/seed/3/500/300"
     },
 ]
-export default function handler (req, res){
+export default async function handler (req, res){
 
-    console.info(req.query)
+    //console.info(req.query)
+    const result = await db.blogs.findMany()
     res.status(200).json({
         success : true,
         // query : req.query
-        data : dummyBlogs
+        //data : dummyBlogs
+        data : result
     })
 }
